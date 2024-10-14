@@ -1,0 +1,13 @@
+NO ./texture/texture_no.xml
+SO ./texture/texture_so.xml
+WE ./texture/texture_we.xml
+EA ./texture/texture_ea.xml
+
+F 254,50,90
+C 250,30,0
+
+
+111111
+100001
+100N01
+111111
