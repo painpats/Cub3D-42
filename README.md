@@ -1,10 +1,14 @@
-# Cub3D-42
+# Cub3D
 
-`Cub3D` is the **second group project** of the common core at 42's school. My mate was **mafissie**.
+`Cub3D` is the **second group project** of the common core at 42's school.
 
 This project is a 3D RayCasting engine inspired by classic first-person shooters. The goal was to create a 3D representation of a 2D map, allowing players to navigate the environment and experience basic game mechanics. 
 
 This project enhances skills in graphics programming, mathematics and game development concepts.
+
+Mate: **mafissie**
+
+Score: **100%**
 
 ## Objectives
 
